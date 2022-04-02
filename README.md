@@ -7,8 +7,7 @@
 
   Hey! My name is João Vitor, I'm Brazilian and I love programming and computing in general!
 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px"> Compiling...  </br>
-</details>
+  </details>
 <details>
   <summary> <b>[ 📉 ] Static-Profile</summary><br>
 
